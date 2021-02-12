@@ -4,7 +4,7 @@
 いくつかの質問に答えるだけであなたにぴったりの研究室が見つかります  
 ![image](https://user-images.githubusercontent.com/72246826/107740494-9c2cf200-6d4e-11eb-982a-d3cd6af03f10.png)
 # DEMO
-![gif](https://user-images.githubusercontent.com/72246826/107743179-c6cd7980-6d53-11eb-8824-ef1629c306ef.gif)  
+![gif](https://user-images.githubusercontent.com/72246826/107743507-55da9180-6d54-11eb-9abc-ed82f4e2df6f.gif)  
 情報通信工学科で行われている研究の中から最大3つの研究室を紹介します
 
 # Note
