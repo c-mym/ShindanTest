@@ -9,5 +9,5 @@ DEMO
 
 # Note
  
-東北工業大学-工学部-情報通信工学科-研究室
+東北工業大学-工学部-情報通信工学科-研究室  
 https://www.ice.tohtech.ac.jp/labs/
